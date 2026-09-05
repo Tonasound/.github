@@ -1,3 +1,3 @@
 # Tona
 
-> [!quote] Letting people work on music.
+*Letting people work on music.*
